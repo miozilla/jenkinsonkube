@@ -6,6 +6,7 @@ jenkinsonkube : Jenkins on Kubernetes Engine | Helm, Jenkins, Kubernetes Cluster
 - Creating Kubernetes cluster with Kubernetes Engine.
 - Creating Jenkins deployment and services.
 - Connecting to Jenkins.
+- GKE similar skill sets/services/technologies : EKS, AKS, Kubernetes, k3s, OpenShift, Rancher, MicroK8s, Nomad, Docker Swarm
 
 
 ## Setting up Jenkins on Kubernetes Engine 
